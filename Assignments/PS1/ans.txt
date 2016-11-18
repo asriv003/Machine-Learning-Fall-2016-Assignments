@@ -1,0 +1,9 @@
+Name : Abhishek Kumar Srivastava
+Student Id : 861307778
+Date: October 07, 2016
+Class: CS229
+Assignment : PS1
+
+Answer b: The learning shows that with the increase in the dimension the average distance between the nearest neighbours also increases to find the nearest neighbours we have to increase the volume of hypercube. we care about the average distance to the another point because it can be used in prediction hypothesis to correctly predict the another point in the same hyperspace.
+
+Answer d: After replacing the indentity matrix as the covarience matrix with matrix in which the diagonal elements are 1, but the off-diagonal elements are all 0.8. The average distance increases between the nearest neighbours and respectively as the dimension increases the average distance increases.
