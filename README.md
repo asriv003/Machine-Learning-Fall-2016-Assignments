@@ -12,7 +12,7 @@ Problems related to **Lasso Regression** and **Ridge Regression Bias and Varianc
 
 ##PS3
 
-Problems related to **Gradient Descent for **Linear SVM** derivation, update rule, its implementation and **Spam Classifier** using **Linear SVM**.
+Problems related to **Gradient Descent** for **Linear SVM** derivation, update rule, its implementation and **Spam Classifier** using **Linear SVM**.
 
 ##PS4
 
@@ -26,8 +26,11 @@ Implementation of **Linear**,**Polynomial** and **Gaussian Kernels** for **SVM**
 Implementation to train a **Neural Network**, Train it on the dataset and Plot the results.
 
 Vary three aspects of your training:
+
 • Number of layers: 2 or 3 (that is, 1 or 2 layers of hidden units)
+
 • Number of hidden units per hidden layer: 1, 5, 20 (same in all hidden layers)
+
 • Amount of weight-decay or regulariztion (λ in the slides from class): 0.001, 0.01, or 0.1
 
 Implements functions to run forward propagation, backward propagation, and gradient computations.
